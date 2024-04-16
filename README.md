@@ -1,1 +1,1 @@
-# Algorithm
+# Luyện thuật toán
